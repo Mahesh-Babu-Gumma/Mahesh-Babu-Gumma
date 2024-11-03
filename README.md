@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @Mahesh-Babu-Gumma
+- 👀 I’m interested in developing softwares or solutions which are going to be useful for me and public
+- 🌱 I’m currently learning Angular
+- 💞️ I’m looking to collaborate on a e-commerce based marketing application for consumers to explore offers and deals
+- 📫 How to reach me maheshgumma723@gmail.com
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: Let me hear what fun facts you have known
